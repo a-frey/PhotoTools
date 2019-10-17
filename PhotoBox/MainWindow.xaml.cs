@@ -25,7 +25,6 @@ namespace PhotoBox
     {
         private const int PREVIEW_WINDOW_AMOUNT = 100;
         PhotoTools tools;
-        private object newobject;
 
         public MainWindow()
         {
